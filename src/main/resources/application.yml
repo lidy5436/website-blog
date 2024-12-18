@@ -5,4 +5,4 @@ spring:
     url: jdbc:mysql://rm-bp15o58b075c1te5ddo.mysql.rds.aliyuncs.com:3306/website_blog?useSSL=false&serverTimezone=UTC&useUnicode=true&characterEncoding=UTF-8
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: root
-    password: ldy19980928!
+    password: XXXXXX
